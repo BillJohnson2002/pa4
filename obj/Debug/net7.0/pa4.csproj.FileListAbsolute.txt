@@ -1,0 +1,15 @@
+/Users/billjohnson/Desktop/Source/Repos/mis321/pa4/bin/Debug/net7.0/pa4
+/Users/billjohnson/Desktop/Source/Repos/mis321/pa4/bin/Debug/net7.0/pa4.deps.json
+/Users/billjohnson/Desktop/Source/Repos/mis321/pa4/bin/Debug/net7.0/pa4.runtimeconfig.json
+/Users/billjohnson/Desktop/Source/Repos/mis321/pa4/bin/Debug/net7.0/pa4.dll
+/Users/billjohnson/Desktop/Source/Repos/mis321/pa4/bin/Debug/net7.0/pa4.pdb
+/Users/billjohnson/Desktop/Source/Repos/mis321/pa4/obj/Debug/net7.0/pa4.csproj.AssemblyReference.cache
+/Users/billjohnson/Desktop/Source/Repos/mis321/pa4/obj/Debug/net7.0/pa4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/billjohnson/Desktop/Source/Repos/mis321/pa4/obj/Debug/net7.0/pa4.AssemblyInfoInputs.cache
+/Users/billjohnson/Desktop/Source/Repos/mis321/pa4/obj/Debug/net7.0/pa4.AssemblyInfo.cs
+/Users/billjohnson/Desktop/Source/Repos/mis321/pa4/obj/Debug/net7.0/pa4.csproj.CoreCompileInputs.cache
+/Users/billjohnson/Desktop/Source/Repos/mis321/pa4/obj/Debug/net7.0/pa4.dll
+/Users/billjohnson/Desktop/Source/Repos/mis321/pa4/obj/Debug/net7.0/refint/pa4.dll
+/Users/billjohnson/Desktop/Source/Repos/mis321/pa4/obj/Debug/net7.0/pa4.pdb
+/Users/billjohnson/Desktop/Source/Repos/mis321/pa4/obj/Debug/net7.0/pa4.genruntimeconfig.cache
+/Users/billjohnson/Desktop/Source/Repos/mis321/pa4/obj/Debug/net7.0/ref/pa4.dll
